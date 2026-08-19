@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  color: #050505;
+  background-color: #f4f7fb;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.profile-header {
+  padding: 32px;
+  color: white;
+  background-color: #3c3d3f;
+}
+
+.profile-photo {
+  border: 4px solid white;
+}
+
+.intro {
+  font-size: 1.2rem;
+}
+
+nav a {
+  margin-right: 16px;
+  color: white;
+}
+
+main,
+.profile-footer {
+  margin: 0 auto;
+  padding: 24px;
+}
+
+section {
+  margin-bottom: 24px;
+  padding: 24px;
+  background-color: white;
+  border-left: 6px solid #2f80c9;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+h2 {
+  color: #173b67;
+}
+
+.project {
+  margin-top: 16px;
+  padding: 16px;
+  background-color: #eef5fc;
+}
+
+#contact {
+  border-left-color: #737272;
+}
